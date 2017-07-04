@@ -1,0 +1,14 @@
+---
+title: Second New Post (in R Markdown)
+author: ~
+date: '2017-07-03'
+slug: second-new-post-in-r-markdown
+categories: []
+tags: []
+---
+
+This is my second blog post.
+
+```{r}
+head(mtcars)
+```
